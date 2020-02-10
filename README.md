@@ -71,3 +71,8 @@ as  we have installed nodemon for develoment , it will install as **devDependenc
 </ol>
 
 > Note : in the json file we just chnage the default **runtimeExecutable** value **node** to our third party package **nodemon**
+
+### Model View Controller (MVC)
+The Model-View-Controller (MVC) is an architectural pattern that separates an application into three main logical      components: the **model**, **the view**, and **the controller**. <br>Each of these components are built to handle specific development aspects of an application. <br>MVC is one of the most frequently used industry-standard web development framework to create scalable and extensible projects.
+
+![](https://media.geeksforgeeks.org/wp-content/uploads/mvc-block-diagram.png)
