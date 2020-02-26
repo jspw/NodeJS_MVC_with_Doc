@@ -39,7 +39,21 @@ as  we have installed nodemon for develoment , it will install as **devDependenc
              "nodemon": "^2.0.2"
          }
             
-  nodemon is a development tool that will automatically  restart our npm start whenever we edit our code !
+
+* After installing nodemon successfully , the package.json file will be like this for the script :
+
+
+
+>  
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon",
+    },
+
+
+
+
+**nodemon** is a development tool that will automatically  restart our npm start whenever we edit our code !
 
 
 #### Debugger setting in vs code for NodeJs
