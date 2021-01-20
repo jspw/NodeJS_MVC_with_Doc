@@ -88,6 +88,26 @@ In a project we can have 2 types of dependencies like for production and for dev
             "express": "^4.17.1"
         }
 
+#### Template Engines
+
+- Ejs
+
+        npm install --save ejs
+
+- pug
+
+        npm install --save pug
+
+- handlebars
+
+        npm install --save express-handlebars
+
+#### Other Necessary Packages :
+
+- mysql2
+- sequelize
+- express-session
+
 ### Debugger Setting in VS Code for NodeJs
 
 <ol>
